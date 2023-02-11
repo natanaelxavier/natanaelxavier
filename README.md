@@ -1,6 +1,10 @@
 <img align="right" src="https://github.com/natanaelxavier/natanaelxavier/blob/main/img/illustration.gif" width="300"/>
 
 ### Olá! Sou Natanael  👋
+<div>
+ <a href="https://www.instagram.com/natanaelxavierr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natanaelxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 Graduado em Análise e Desenvolvimento de Sistemas. Com 25 anos de idade, trabalho como Analista de Sistemas .NET, onde aplico meus conhecimentos e habilidades para entregar soluções inovadoras e de alta qualidade. Minha linguagem de programação de preferência é C#, mas também tenho conhecimento em React, Asp.NET, NodeJs e Python. 
 Amo programar, solucionar problemas e um otimo copo de Café.
 
@@ -9,11 +13,11 @@ Amo programar, solucionar problemas e um otimo copo de Café.
 
 <div align="center">
   <a href="https://github.com/natanaelxavier">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natanaelxavier&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelxavier&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanaelxavier&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelxavier&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<div style="display: inline_block; background-color: white;"><br>
+<div align="center" style="display: inline_block; background-color: white;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
@@ -31,10 +35,7 @@ Amo programar, solucionar problemas e um otimo copo de Café.
 
  ##
   
-<div> 
-  <a href="https://www.instagram.com/natanaelxavierr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natanaelxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div align="center">
+  
   ![Snake animation](https://github.com/natanaelxavier/natanaelxavier/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
