@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/natanaelxavier/natanaelxavier/blob/master/images/illustration.gif" width="300"/>
+<img align="right" src="https://github.com/natanaelxavier/natanaelxavier/blob/main/img/illustration.gif" width="300"/>
 
 ### Olá! Sou Natanael  👋
 Graduado em Análise e Desenvolvimento de Sistemas. Com 25 anos de idade, trabalho como Analista de Sistemas .NET, onde aplico meus conhecimentos e habilidades para entregar soluções inovadoras e de alta qualidade. Minha linguagem de programação de preferência é C#, mas também tenho conhecimento em React, Asp.NET, NodeJs e Python. 
