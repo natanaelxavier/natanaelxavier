@@ -1,9 +1,11 @@
-### Olá! Eu sou o Natanael Xavier 👋
+<img align="right" src="https://github.com/natanaelxavier/natanaelxavier/blob/master/images/illustration.gif" width="300"/>
 
-- 🔭 Hoje trabalho como Analista Desenvolvedor de Sistemas - Full Stack
-- 🌱 Estou estudando ReactJS
-- 👯 Colaborando com o Grupo @devsvikings
-- 😄 Pronomes: ele/dele
+### Olá! Sou Natanael  👋
+Graduado em Análise e Desenvolvimento de Sistemas. Com 25 anos de idade, trabalho como Analista de Sistemas .NET, onde aplico meus conhecimentos e habilidades para entregar soluções inovadoras e de alta qualidade. Minha linguagem de programação de preferência é C#, mas também tenho conhecimento em React, Asp.NET, NodeJs e Python. 
+Amo programar, solucionar problemas e um otimo copo de Café.
+
+“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
+
 
 <div align="center">
   <a href="https://github.com/natanaelxavier">
