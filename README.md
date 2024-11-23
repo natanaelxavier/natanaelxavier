@@ -9,7 +9,7 @@
 
 ### Sobre mim 🚀  
 
-Sou Analista de Sistemas com graduação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Engenharia de Dados e Inteligência Artificial**. Trabalho principalmente com tecnologias **.NET**, mas minha paixão pela tecnologia me levou a explorar diversos outros ecossistemas, como **React**, **Node.js**, **Python** e **ASP.NET**.  
+Sou Analista de Sistemas com graduação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Engenharia de Dados e Inteligência Artificial**. Trabalho principalmente com tecnologias **.NET**, mas minha paixão pela tecnologia me levou a explorar diversos outros ecossistemas, como **Laravel**, **React**, **Node.js**, **Python** e **ASP.NET**.  
 
 Adoro resolver problemas, criar soluções práticas e explorar novas ferramentas. Minha linguagem preferida é **C#**, mas a curiosidade me mantém sempre aprendendo e experimentando. Se você gosta de tecnologia e **café**, já temos algo em comum! ☕  
 
@@ -17,9 +17,9 @@ Adoro resolver problemas, criar soluções práticas e explorar novas ferramenta
 
 ### O que eu faço atualmente 🔧  
 
-- **Backend:** C# (.NET Core e Framework), Python, Node.js.  
-- **Frontend:** React, JavaScript, TypeScript.  
-- **Bancos de Dados:** MySQL, Oracle, SQL Server.  
+- **Backend:** C# (.NET Core e Framework), Python, Node.js, Laravel.  
+- **Frontend:** Blade, React, JavaScript, TypeScript.  
+- **Bancos de Dados:** MySQL, Oracle, SQL Server, PostgreSQL.  
 - **Outras Skills:** APIs REST, arquiteturas distribuídas, e automações de processos com ferramentas como o **Apache NiFi**.  
 
 ---
